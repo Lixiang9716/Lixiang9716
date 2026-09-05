@@ -11,7 +11,6 @@
 - 目前专注 **AI Agent 基础设施**：让 coding agent 跑得快，同时用机械化的治理机制守住质量线
 - 研究兴趣：LLM 推理与 serving、GPU 集群调度、Agent 控制流架构
 - 主力语言：**Python / Rust**，也写 TypeScript
-- 维护一份 [ML 系统 & GPU 集群论文精选](https://github.com/Lixiang9716/ml-sys-papers)，持续更新中
 
 ## 🚀 精选项目
 
@@ -21,7 +20,6 @@
 | [**devflow**](https://github.com/Lixiang9716/devflow) | AI 驱动的结构化软件工程多 Agent 系统：五阶段门禁模型（需求→可行性→架构→实现→验证），LLM 只负责推理与决策，产物由确定性工具生成 |
 | [**LCode**](https://github.com/Lixiang9716/LCode) | Rust 实现的终端 CLI code agent：自主规划、读写文件、执行命令，支持 OpenAI / Anthropic 后端 |
 | [**dsh-issue-bot**](https://github.com/Lixiang9716/dsh-issue-bot) | DeepSeek Harness 宿主插件：监听 GitHub 新 issue 自动派发 agent 处理，内置轮询模式，无需公网 IP |
-| [**ml-sys-papers**](https://github.com/Lixiang9716/ml-sys-papers) | ML 系统 & GPU 集群前沿论文精选（2023–2026，OSDI / NSDI / SOSP / SIGCOMM / MLSys），按子方向整理并附阅读路线 |
 
 ## 🧰 技术栈
 

@@ -11,7 +11,6 @@ English | [中文](README.zh-CN.md)
 - Currently focused on **AI agent infrastructure**: letting coding agents move fast while mechanical governance mechanisms hold the quality line
 - Research interests: LLM inference & serving, GPU cluster scheduling, agent control-flow architectures
 - Primary languages: **Python / Rust**, also TypeScript
-- Curating a growing collection of [ML systems & GPU cluster papers](https://github.com/Lixiang9716/ml-sys-papers)
 
 ## 🚀 Featured Projects
 
@@ -21,7 +20,6 @@ English | [中文](README.zh-CN.md)
 | [**devflow**](https://github.com/Lixiang9716/devflow) | An AI-driven structured software engineering multi-agent system: five-phase gate model (requirements → feasibility → architecture → implementation → verification). The LLM only reasons and decides; artifacts are produced by deterministic tools |
 | [**LCode**](https://github.com/Lixiang9716/LCode) | A Rust-based terminal CLI code agent: autonomous planning, file read/write, command execution, with OpenAI / Anthropic backends |
 | [**dsh-issue-bot**](https://github.com/Lixiang9716/dsh-issue-bot) | A DeepSeek Harness host plugin: watches new GitHub issues and auto-dispatches an agent to handle them. Built-in polling mode — no public IP required |
-| [**ml-sys-papers**](https://github.com/Lixiang9716/ml-sys-papers) | Curated papers on ML systems & GPU clusters (2023–2026, OSDI / NSDI / SOSP / SIGCOMM / MLSys), organized by sub-area with reading paths |
 
 ## 🧰 Tech Stack
 
