@@ -1,14 +1,14 @@
 # Hi, I'm Li Xiang (李响) 👋
 
-> **Building the governance layer for agent-driven software development**
+> **Software engineer building the governance layer for agent-driven software development**
 
-🎓 CS @ Huazhong University of Science and Technology · 📍 Wuhan, China
+💼 Software Development Engineer · 🎓 CS @ Huazhong University of Science and Technology · 📍 Wuhan, China
 
 English | [中文](README.zh-CN.md)
 
 ## 🔭 About Me
 
-- Currently focused on **AI agent infrastructure**: letting coding agents move fast while mechanical governance mechanisms hold the quality line
+- Software development engineer focused on **AI agent infrastructure**: letting coding agents move fast while mechanical governance mechanisms hold the quality line
 - Research interests: LLM inference & serving, GPU cluster scheduling, agent control-flow architectures
 - Primary languages: **Python / Rust**, also TypeScript
 
