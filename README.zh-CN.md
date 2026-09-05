@@ -36,10 +36,10 @@
 
 <!-- 由 GitHub Actions 自动生成（见 .github/workflows/），不依赖第三方图床 -->
 
-<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="47%" alt="各语言仓库数"/>
-<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="47%" alt="提交最多的语言"/>
-<img src="profile-summary-card-output/tokyonight/3-stats.svg" width="47%" alt="GitHub 统计"/>
-<img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="47%" alt="高产时段"/>
+| | |
+| --- | --- |
+| <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="100%" alt="各语言仓库数"/> | <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="100%" alt="提交最多的语言"/> |
+| <img src="profile-summary-card-output/tokyonight/3-stats.svg" width="100%" alt="GitHub 统计"/> | <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="100%" alt="高产时段"/> |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lixiang9716/Lixiang9716/output/github-snake-dark.svg" />
