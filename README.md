@@ -2,7 +2,7 @@
 
 > **Agent-native engineer — building the governance layer for agent-driven software development**
 
-💼 Agent-Native Software Development Engineer @ Strategy · 🎓 CS @ Huazhong University of Science and Technology · 📍 Hangzhou, China
+💼 Agent-Native Engineer @ Strategy · 🎓 HUST CS · 📍 Hangzhou · 📫 [1395734327@qq.com](mailto:1395734327@qq.com)
 
 English | [中文](README.zh-CN.md)
 

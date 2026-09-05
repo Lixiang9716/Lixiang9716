@@ -4,7 +4,7 @@
 
 > **Agent-native 工程师 —— 构建面向 agent 驱动开发的治理层**
 
-💼 Agent-Native 软件开发工程师 @ Strategy · 🎓 华中科技大学 计算机科学 · 📍 中国杭州
+💼 Agent-Native 工程师 @ Strategy · 🎓 HUST CS · 📍 杭州 · 📫 [1395734327@qq.com](mailto:1395734327@qq.com)
 
 ## 🔭 关于我
 
