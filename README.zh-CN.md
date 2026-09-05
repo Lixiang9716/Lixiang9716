@@ -34,8 +34,18 @@
 
 ## 📊 GitHub 统计
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lixiang9716&show_icons=true&hide_border=true&theme=tokyonight" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lixiang9716&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="165" alt="Top languages"/>
+<!-- 由 GitHub Actions 自动生成（见 .github/workflows/），不依赖第三方图床 -->
+
+<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="47%" alt="各语言仓库数"/>
+<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="47%" alt="提交最多的语言"/>
+<img src="profile-summary-card-output/tokyonight/3-stats.svg" width="47%" alt="GitHub 统计"/>
+<img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="47%" alt="高产时段"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lixiang9716/Lixiang9716/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lixiang9716/Lixiang9716/output/github-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Lixiang9716/Lixiang9716/output/github-snake.svg" />
+</picture>
 
 ---
 
