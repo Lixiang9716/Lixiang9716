@@ -22,7 +22,6 @@ English | [中文](README.zh-CN.md)
 | [**LCode**](https://github.com/Lixiang9716/LCode) | A Rust-based terminal CLI code agent: autonomous planning, file read/write, command execution, with OpenAI / Anthropic backends |
 | [**dsh-issue-bot**](https://github.com/Lixiang9716/dsh-issue-bot) | A DeepSeek Harness host plugin: watches new GitHub issues and auto-dispatches an agent to handle them. Built-in polling mode — no public IP required |
 | [**ml-sys-papers**](https://github.com/Lixiang9716/ml-sys-papers) | Curated papers on ML systems & GPU clusters (2023–2026, OSDI / NSDI / SOSP / SIGCOMM / MLSys), organized by sub-area with reading paths |
-| [**llm-agent-research**](https://github.com/Lixiang9716/llm-agent-research) | Source-level analysis of control flow across 8+ agent frameworks (Mastra, LangGraph, CrewAI, Dify, Pydantic AI…) |
 
 ## 🧰 Tech Stack
 

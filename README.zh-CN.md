@@ -22,7 +22,6 @@
 | [**LCode**](https://github.com/Lixiang9716/LCode) | Rust 实现的终端 CLI code agent：自主规划、读写文件、执行命令，支持 OpenAI / Anthropic 后端 |
 | [**dsh-issue-bot**](https://github.com/Lixiang9716/dsh-issue-bot) | DeepSeek Harness 宿主插件：监听 GitHub 新 issue 自动派发 agent 处理，内置轮询模式，无需公网 IP |
 | [**ml-sys-papers**](https://github.com/Lixiang9716/ml-sys-papers) | ML 系统 & GPU 集群前沿论文精选（2023–2026，OSDI / NSDI / SOSP / SIGCOMM / MLSys），按子方向整理并附阅读路线 |
-| [**llm-agent-research**](https://github.com/Lixiang9716/llm-agent-research) | 8+ 主流 Agent 框架的源码级控制流分析（Mastra、LangGraph、CrewAI、Dify、Pydantic AI…） |
 
 ## 🧰 技术栈
 
