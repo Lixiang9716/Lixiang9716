@@ -2,15 +2,15 @@
 
 # 李响 👋
 
-> **软件开发工程师，构建面向 agent 驱动开发的治理层**
+> **Agent-native 工程师 —— 构建面向 agent 驱动开发的治理层**
 
-💼 软件开发工程师 · 🎓 华中科技大学 计算机科学 · 📍 中国武汉
+💼 Agent-Native 软件开发工程师 · 🎓 华中科技大学 计算机科学 · 📍 中国武汉
 
 ## 🔭 关于我
 
-- 软件开发工程师，专注 **AI Agent 基础设施**：让 coding agent 跑得快，同时用机械化的治理机制守住质量线
-- 研究兴趣：LLM 推理与 serving、GPU 集群调度、Agent 控制流架构
-- 主力语言：**Python / Rust**，也写 TypeScript
+- **Agent-native 工程师**：agent 是我构建软件的默认方式——让 coding agent 干活，用确定性基础设施（gates、notes、机械检查）守住质量线
+- 研究兴趣：Agent 控制流架构、LLM 推理与 serving、GPU 集群调度
+- 核心技术栈：**Python / C**，跑在 **Kubernetes** 上
 
 ## 🚀 精选项目
 
@@ -24,10 +24,8 @@
 ## 🧰 技术栈
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ## 📊 GitHub 统计
 

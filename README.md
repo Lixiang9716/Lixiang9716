@@ -1,16 +1,16 @@
 # Hi, I'm Li Xiang (李响) 👋
 
-> **Software engineer building the governance layer for agent-driven software development**
+> **Agent-native engineer — building the governance layer for agent-driven software development**
 
-💼 Software Development Engineer · 🎓 CS @ Huazhong University of Science and Technology · 📍 Wuhan, China
+💼 Agent-Native Software Development Engineer · 🎓 CS @ Huazhong University of Science and Technology · 📍 Wuhan, China
 
 English | [中文](README.zh-CN.md)
 
 ## 🔭 About Me
 
-- Software development engineer focused on **AI agent infrastructure**: letting coding agents move fast while mechanical governance mechanisms hold the quality line
-- Research interests: LLM inference & serving, GPU cluster scheduling, agent control-flow architectures
-- Primary languages: **Python / Rust**, also TypeScript
+- **Agent-native engineer**: agents are my default way to build software — coding agents do the work, deterministic infrastructure (gates, notes, mechanical checks) holds the quality line
+- Research interests: agent control-flow architectures, LLM inference & serving, GPU cluster scheduling
+- Core stack: **Python / C** on **Kubernetes**
 
 ## 🚀 Featured Projects
 
@@ -24,10 +24,8 @@ English | [中文](README.zh-CN.md)
 ## 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ## 📊 GitHub Stats
 
