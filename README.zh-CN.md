@@ -21,12 +21,6 @@
 | [**LCode**](https://github.com/Lixiang9716/LCode) | Rust 实现的终端 CLI code agent：自主规划、读写文件、执行命令，支持 OpenAI / Anthropic 后端 |
 | [**dsh-issue-bot**](https://github.com/Lixiang9716/dsh-issue-bot) | DeepSeek Harness 宿主插件：监听 GitHub 新 issue 自动派发 agent 处理，内置轮询模式，无需公网 IP |
 
-## 🧰 技术栈
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
 ## 📊 GitHub 统计
 
 <!-- 由 GitHub Actions 自动生成（见 .github/workflows/），不依赖第三方图床 -->
