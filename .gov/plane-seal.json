@@ -1,0 +1,19 @@
+{
+  "files": {
+    ".gov/rejections/README.md": {
+      "sha256": "9aced9cd2365dcc45f6a175ad19b0c931a0f9a42d1c955f15fd0f390e5efdf89"
+    },
+    ".gov/rules.md": {
+      "sha256": "8b544404b58cab5fe0b26c2d59037a35a7ad1ff777be8c6a30d914b7fcdbbf03"
+    },
+    "gates.json": {
+      "sha256": "73de663cce432b091b26b5c73e1237831e0d678e513048086449ca45a9dce2f6"
+    }
+  },
+  "last_rebaseline": {
+    "ts": "2026-10-17T01:30:09+00:00",
+    "caller": "lixiang@192.168.21.11",
+    "unattended": true,
+    "reason": ".agents/notes/implemented/process/2026-10-17-seal-plane-for-govrail-0-48.md \u2014 plane config untouched since 0.27 init; seal is a re-baseline for the 0.48 CLI, reviewed in that note"
+  }
+}
