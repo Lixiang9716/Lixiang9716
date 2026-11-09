@@ -8,9 +8,8 @@
 
 | | |
 | --- | --- |
+| [**def**](https://github.com/Lixiang9716/def) 📌 | DSH 生态移动端宿主:QuickJS 单线程协程运行时,插件契约,UI 亦是插件 |
 | [**govrail**](https://github.com/Lixiang9716/govrail) | agent 驱动开发的治理门禁,已上 [PyPI](https://pypi.org/project/govrail/) |
-| [**devflow**](https://github.com/Lixiang9716/devflow) | 五阶段多 Agent 工程系统 |
-| [**LCode**](https://github.com/Lixiang9716/LCode) | Rust 终端编程 agent |
 | [**dsh-issue-bot**](https://github.com/Lixiang9716/dsh-issue-bot) | GitHub issue 进,自主 agent 出 |
 
 ## 📡 遥测

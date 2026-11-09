@@ -8,9 +8,8 @@
 
 | | |
 | --- | --- |
+| [**def**](https://github.com/Lixiang9716/def) 📌 | mobile host for the DSH ecosystem: QuickJS single-threaded coroutine runtime, plugin contracts, UI as plugins |
 | [**govrail**](https://github.com/Lixiang9716/govrail) | governance gates for agent-driven development, on [PyPI](https://pypi.org/project/govrail/) |
-| [**devflow**](https://github.com/Lixiang9716/devflow) | five-phase multi-agent engineering system |
-| [**LCode**](https://github.com/Lixiang9716/LCode) | Rust terminal coding agent |
 | [**dsh-issue-bot**](https://github.com/Lixiang9716/dsh-issue-bot) | GitHub issues in, autonomous agents out |
 
 ## 📡 Telemetry
